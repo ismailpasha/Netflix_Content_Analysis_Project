@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.jupyter/
+
+# OS / editor files
+Thumbs.db
+desktop.ini
